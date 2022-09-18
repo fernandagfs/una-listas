@@ -1,3 +1,5 @@
+package listaSala;
+
 import java.util.Scanner;
 
 public class Ex02aula4 {

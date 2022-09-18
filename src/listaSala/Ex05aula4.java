@@ -1,3 +1,5 @@
+package listaSala;
+
 import java.util.Scanner;
 
 //Exercício 05) Faça um programa Java, no qual o usuário será indagado a entrar

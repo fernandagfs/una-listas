@@ -1,4 +1,4 @@
-//Exercício 04) Faça um outro programa Java, similar ao 03 acima, no qual o
+package listaSala;//Exercício 04) Faça um outro programa Java, similar ao 03 acima, no qual o
 //usuário será indagado a entrar dois valores reais, um após o outro, (cada um
 //deve ser armazenado numa variável do tipo adequado. Após isso o usuário é
 //solicitado para entrar com uma operação (+, -, * ou /). E finalmente o programa

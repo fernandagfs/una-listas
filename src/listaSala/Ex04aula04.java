@@ -1,3 +1,5 @@
+package listaSala;
+
 import java.util.Scanner;
 
 //Exercício 04) Faça um programa Java no qual o usuário entra o valor do seu

@@ -1,3 +1,5 @@
+package listaSala;
+
 import java.util.Scanner;
 
 //Exercício 02) Faça um programa Java no qual o usuário entra as dimensões,
