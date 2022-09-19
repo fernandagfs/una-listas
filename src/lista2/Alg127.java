@@ -5,7 +5,7 @@ import java.util.Scanner;
 //Alg 127: entrar com nome, nota da PR1 e nota da PR2 de um aluno. Imprimir nome, nota da PR1,
 //nota da PR2, média e uma das mensagens: Aprovado, reprovado ou em prova final (a média é 7
 //para aprovação, menor que 3 para reprovação e as demais em prova final)
-public class ALg127 {
+public class Alg127 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite seu nome: ");
