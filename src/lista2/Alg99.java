@@ -7,7 +7,7 @@ public class Alg99 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println( "Entre com numero inteiro ");
-        double numb = sc.nextDouble();
+        char numb = sc.next() .charAt(0);
 
         if ( numb % 2 == 0) {
             System.out.println("O numero digitado é par ");
@@ -15,9 +15,8 @@ public class Alg99 {
         else {
             System.out.println( "O numero digitado é impar ");
         }
-        if ( numb >= 100 && numb <= 999) {
-            System.out.println("o numero pertece a casa das centenas: ");
-        }
+
+
         sc.close();
     }
 }
